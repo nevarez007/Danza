@@ -18,11 +18,13 @@
 
   <marquee>¡Inscripciones Abiertas Todo el Año!</marquee>
 
+
   <main>
     <h2>Bienvenidos a nuestra academia</h2>
     <p>Ofrecemos clases para todas las edades y niveles.</p>
-    <video src="media/video.mp4" controls width="400"></video>
-    <audio src="media/musica.mp3" controls></audio>
+    
+    <video src="https://github.com/user-attachments/assets/cad235a8-2d24-4616-a8a3-844d1bcab9a4" controls width="400"></video> 
+    <audio src="https://github.com/user-attachments/assets/eb98be98-e6a3-48eb-9299-036b08f50aef" controls></audio>
   </main>
 
   <footer>
