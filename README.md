@@ -22,9 +22,19 @@
   <main>
     <h2>Bienvenidos a nuestra academia</h2>
     <p>Ofrecemos clases para todas las edades y niveles.</p>
+
+
+
+https://github.com/user-attachments/assets/a20c049e-e13e-451c-92ef-4b7c7f2249d1
+
+
+
+
+https://github.com/user-attachments/assets/cc542506-5641-4e91-b75b-cc293a3f5c7d
+
+
+
     
-    <video src="https://github.com/user-attachments/assets/cad235a8-2d24-4616-a8a3-844d1bcab9a4" controls width="400"></video> 
-    <audio src="https://github.com/user-attachments/assets/eb98be98-e6a3-48eb-9299-036b08f50aef" controls></audio>
   </main>
 
   <footer>
