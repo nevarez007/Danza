@@ -8,10 +8,9 @@
   <header>
     <h1>Academia de Danza Estrella</h1>
     <nav>
-      <a href="index.html">Inicio</a>
+      <a href="https://nevarez007.github.io/Danza/index.html">Inicio</a>
       <a href="https://nevarez007.github.io/Danza/">Clases</a>
-      <a href="https://nevarez007.github.io/Danza/index.html">Contacto</a>
-      <a href="https://www.instagram.com" target="_blank">Instagram</a>
+      <a href="https://nevarez007.github.io/Danza/">Contacto</a>
     </nav>
   </header>
 
