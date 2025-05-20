@@ -1,4 +1,3 @@
-
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -33,7 +32,7 @@
   </main>
 
   <footer>
-    2025 Academia Estrella</p>
+    2025 Academia Estrella
   </footer>
 </body>
 </html>
