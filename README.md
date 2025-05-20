@@ -8,8 +8,8 @@
   <header>
     <h1>Contáctanos</h1>
     <nav>
-      <a href="index.html">Inicio</a>
-      <a href="clases.html">Clases</a>
+      <a href="https://nevarez007.github.io/Danza/index.html">Inicio</a>
+      <a href="https://nevarez007.github.io/Danza/">Clases</a>
       <a href="contacto.html">Contacto</a>
     </nav>
   </header>
