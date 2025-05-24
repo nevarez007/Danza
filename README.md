@@ -9,8 +9,8 @@
     <h1>Academia de Danza Estrella</h1>
     <nav>
       <a href="https://nevarez007.github.io/Danza/index.html">Inicio</a>
-      <a href="https:///C:/Users/LAB2-PC25/Downloads/clases.html">Clases</a>
-      <a href="https://nevarez007.github.io/Danza/">Contacto</a>
+      <a href="https://nevarez007.github.io/clase/">Clases</a>
+      <a href="https://nevarez007.github.io/contacto/">Contacto</a>
     </nav>
   </header>
 
